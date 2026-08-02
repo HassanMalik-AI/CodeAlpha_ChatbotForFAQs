@@ -1,0 +1,7 @@
+nlkt
+spacy
+scikit-learn
+pandas
+numpy
+streamlit
+flask
