@@ -49,4 +49,3 @@ Then open the local URL shown in the terminal (usually `http://localhost:8501`).
 
 - The app uses `match.py` for matching and keeps `app.py` focused on the UI.
 - If a question is not matched with enough confidence, the app tries fuzzy matching before logging the unanswered input.
-- The UI is designed for responsiveness and should adapt to narrow screens with the current CSS styling.
